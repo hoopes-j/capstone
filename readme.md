@@ -1,10 +1,9 @@
 # Final Deliverables
 __Name:__ Jason Hoopes \
-__Video Bio:__ (https://vimeo.com/904613275?share=copy) 
-__Written Bio:__
-
-## Final Paper
-__Title:__\
+__Video Bio:__ (https://vimeo.com/904613275?share=copy) \
+__Written Bio:__ \
+This is my written BIO \
+__Paper Title:__\
 OMNI: A Hybird Environemnt for Live Granular and Spatial Processing\
 __Paper Link:__\
 [OMNI: A Hybird Environemnt for Live Granular and Spatial Processing](./31_TONNETZ.pdf)
