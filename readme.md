@@ -4,9 +4,9 @@ __Video Bio:__ (https://vimeo.com/904613275?share=copy) \
 __Written Bio:__ \
 This is my written BIO \
 __Paper Title:__\
-OMNI: A Hybird Environemnt for Live Granular and Spatial Processing\
+OMNI: A Hybird Environement for Live Granular and Spatial Processing\
 __Paper Link:__\
-[OMNI: A Hybird Environemnt for Live Granular and Spatial Processing](./31_TONNETZ.pdf)
+[OMNI: A Hybird Environement for Live Granular and Spatial Processing](./final_paper[Hoopes].pdf)
 
 
 
