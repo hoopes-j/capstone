@@ -1,6 +1,7 @@
 # Final Deliverables
-Name: Jason Hoopes
-Video Bio: (https://vimeo.com/904613275?share=copy)
+__Name:__ Jason Hoopes \
+__Video Bio:__ (https://vimeo.com/904613275?share=copy) 
+__Written Bio:__
 
 ## Final Paper
 __Title:__\
@@ -20,9 +21,9 @@ Jason Hoopes and Charlie Daigle\
 
 ## [Score and Sound Design] 
 __The Light Keepers__\
-Link: (https://vimeo.com/379795797)\
+Link: (https://vimeo.com/379795797)
 Score and Sound Design - Jason Hoopes\
-Animation - Jack Wisialowski\
+Animation - Jack Wisialowski
 
 
 
