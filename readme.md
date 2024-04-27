@@ -34,3 +34,7 @@ Composition for Solo Violin and Piano\
 ## [Papers]
 __An Extension of the Note Based Tonnetz to 31-Tone Equal Temperament__\
 [Live Paper Link](./31_TONNETZ.pdf)
+
+
+## [Class Papers]
+[Martley](./class_papers/Spatializing_stereo.pdf)
